@@ -44,7 +44,7 @@ export default function App() {
 
   return (
     <>
-      <Perf />
+      {/* <Perf /> */}
       <color args={['#000000']} attach='background' />
       {/* <PresentationControls
         global
